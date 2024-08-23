@@ -63,7 +63,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+The images show how to set up roles, departments, teams, and permissions in the Admin Panel, add agents and users, configure SLA policies, and create help topics like “Password Reset.” Each image illustrates these setup tasks. [I’ll leave a link to the video tutorial for more details](www.google.com).
+
 </p>
 <br />
 
