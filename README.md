@@ -56,9 +56,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-sdsdvsd
-![Part 3 osTicket](https://github.com/user-attachments/assets/831bdffb-5f86-4383-8809-20ede6e78929)
-  
+
+<p>
+<img src="https://github.com/user-attachments/assets/2356b316-2571-48bb-8964-c62e214a80b7" height="80%" width="80%" alt="Part 3 osTicket"/>
+</p>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
