@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
@@ -67,5 +65,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 The images show how to set up roles, departments, teams, and permissions in the Admin Panel, add agents and users, configure SLA policies, and create help topics like “Password Reset.” Each image illustrates these setup tasks. 
 </p>
 <br />
-
-
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
